@@ -1,7 +1,9 @@
 ## [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/)
 
-[![Easy](https://img.shields.io/badge/Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
-[![JavaScript](https://img.shields.io/badge/JavaScript-FF6700)](https://leetcode.com/studyplan/30-days-of-javascript/)
+[![Easy](https://img.shields.io/badge/Difficulty:%20Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
+
+[![Solution](https://img.shields.io/badge/Solution:%20JavaScript-F7DF1E)](./solution.js)
+[![Notes](https://img.shields.io/badge/Reflection%20&%20Notes-grey)](./NOTES.md)
 
 Write a function `expect` that helps developers test their code. It should take in any value `val` and return an object with the following two functions.
 

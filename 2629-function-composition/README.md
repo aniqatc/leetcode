@@ -1,7 +1,9 @@
 ## [2629. Function Composition](https://leetcode.com/problems/function-composition/description/)
 
-[![Easy](https://img.shields.io/badge/Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
-[![JavaScript](https://img.shields.io/badge/JavaScript-FF6700)](https://leetcode.com/studyplan/30-days-of-javascript/)
+[![Easy](https://img.shields.io/badge/Difficulty:%20Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
+
+[![Solution](https://img.shields.io/badge/Solution:%20JavaScript-F7DF1E)](./solution.js)
+[![Notes](https://img.shields.io/badge/Reflection%20&%20Notes-grey)](./NOTES.md)
 
 Given an array of functions `[f1, f2, f3, ..., fn]`, return a new function `fn` that is the **function composition** of the array of functions.
 

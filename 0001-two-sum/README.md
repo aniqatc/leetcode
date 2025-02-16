@@ -1,6 +1,9 @@
 ## [0001. Two Sum](https://leetcode.com/problems/two-sum/description/)
 
-[![Easy](https://img.shields.io/badge/Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
+[![Easy](https://img.shields.io/badge/Difficulty:%20Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
+
+[![Solution](https://img.shields.io/badge/Solution:%20JavaScript-F7DF1E)](./solution.js)
+[![Notes](https://img.shields.io/badge/Reflection%20&%20Notes-grey)](./NOTES.md)
 
 Given an array of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_.
 

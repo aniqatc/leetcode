@@ -1,7 +1,9 @@
 ## [2634. Filter Elements From Array](https://leetcode.com/problems/filter-elements-from-array/description/)
 
-[![Easy](https://img.shields.io/badge/Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
-[![JavaScript](https://img.shields.io/badge/JavaScript-FF6700)](https://leetcode.com/studyplan/30-days-of-javascript/)
+[![Easy](https://img.shields.io/badge/Difficulty:%20Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
+
+[![Solution](https://img.shields.io/badge/Solution:%20JavaScript-F7DF1E)](./solution.js)
+[![Notes](https://img.shields.io/badge/Reflection%20&%20Notes-grey)](./NOTES.md)
 
 Given an integer array `arr` and a filtering function `fn`, return a filtered array `filteredArr`.
 

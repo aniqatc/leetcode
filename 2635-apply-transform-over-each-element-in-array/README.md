@@ -1,7 +1,9 @@
 ## [2635. Apply Transform Over Each Element In Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/)
 
-[![Easy](https://img.shields.io/badge/Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
-[![JavaScript](https://img.shields.io/badge/JavaScript-FF6700)](https://leetcode.com/studyplan/30-days-of-javascript/)
+[![Easy](https://img.shields.io/badge/Difficulty:%20Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
+
+[![Solution](https://img.shields.io/badge/Solution:%20JavaScript-F7DF1E)](./solution.js)
+[![Notes](https://img.shields.io/badge/Reflection%20&%20Notes-grey)](./NOTES.md)
 
 Given an integer array `arr` and a mapping function `fn`, return a new array with a transformation applied to each element.
 
