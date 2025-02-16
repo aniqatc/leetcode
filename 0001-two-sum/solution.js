@@ -28,7 +28,7 @@ function twoSum(nums, target) {
 	return [];
 }
 
-// Manual Tests
+// Basic Tests
 console.log(twoSum([1, 2, 3, 4, 5], 9)); // [3, 4]
 console.log(twoSum([0, 0, 1, 1], 1)); // [1, 2]
 console.log(twoSum([7, 10, 3, 2, 6, 0, 9, 11], 21)); // [1, 7]
