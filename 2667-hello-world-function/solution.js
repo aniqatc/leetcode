@@ -8,7 +8,8 @@ function createHelloWorld() {
 	};
 }
 
-/**
- * const f = createHelloWorld();
- * f(); // "Hello World"
- */
+const f = createHelloWorld();
+console.log(f()); // "Hello World"
+console.log(f('hello')); // "Hello World"
+console.log(f(['hello'], 'world')); // "Hello World"
+console.log(f(null, undefined)); // "Hello World"

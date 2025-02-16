@@ -1,4 +1,4 @@
-## [2667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/)
+## Problem: [2667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/)
 
 [![Easy](https://img.shields.io/badge/Difficulty:%20Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
 
