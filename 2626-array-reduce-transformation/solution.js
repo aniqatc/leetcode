@@ -5,7 +5,7 @@
  * @return {number}
  */
 
-var reduce = function (nums, fn, init) {
+const reduce = function (nums, fn, init) {
 	let current = init;
 
 	for (let i = 0; i < nums.length; i++) {
