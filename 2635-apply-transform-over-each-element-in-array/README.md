@@ -1,7 +1,6 @@
-## [2635. Apply Transform Over Each Element In Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/)
+## Problem: [2635. Apply Transform Over Each Element In Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/)
 
 [![Easy](https://img.shields.io/badge/Difficulty:%20Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
-
 [![Solution](https://img.shields.io/badge/Solution:%20JavaScript-F7DF1E)](./solution.js)
 [![Notes](https://img.shields.io/badge/Reflection%20&%20Notes-grey)](./NOTES.md)
 
