@@ -1,4 +1,4 @@
-## [2665. Counter II](https://leetcode.com/problems/counter-ii/description/)
+## Problem: [2665. Counter II](https://leetcode.com/problems/counter-ii/description/)
 
 [![Easy](https://img.shields.io/badge/Difficulty:%20Easy-4eb247)](https://leetcode.com/problemset/?difficulty=EASY)
 
