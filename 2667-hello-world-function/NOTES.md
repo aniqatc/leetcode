@@ -29,7 +29,7 @@ function createHelloWorld() {
 
 - The outer function is known as a **higher-order function** because it returns another function
 - `...args` uses **rest parameters** to allow the inner function to accept any number of arguments within the `arg` array
-- Because the inner function has access to the outer function and its variable and arguments is known as a **closure**.
+- Because the inner function has access to the outer function and its variable and arguments. this would be known as a **closure**.
 
 ### Test Cases & Findings
 
