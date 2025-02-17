@@ -75,7 +75,7 @@ As shown above, I ended up using the Map data structure. Map data structures all
 The Map approach works by:
 
 1. Converting the array `[1, 2, 3, 4, 5]` into a Map where the array values become keys (1, 2, 3, 4, 5) and the array indices become values (0, 1, 2, 3, 4).
-2. For each number in the array, we calculate the different: `target - current`
+2. For each number in the array, we calculate the difference: `target - current`
    - Example: If target is 9 and current number being iterated over is 4, then the difference would be 5. We would then look for 5 within the Map structure.
 3. Check if the difference exists as a key in the Map:
    - If it exists, the pair is found and we can return the current index (from the for loop variable) and the stored index from the Map using `map.get(difference)`
